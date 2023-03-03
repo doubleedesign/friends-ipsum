@@ -1,6 +1,8 @@
 {
 	"name": "friends-ipsum",
-	"version": "0.0.0",
+	"author": "Leesa Ward",
+	"version": "0.0.1",
+	"repository": "https://github.com/doubleedesign/friends-ipsum",
 	"type": "module",
 	"scripts": {
 		"dev": "vite",
