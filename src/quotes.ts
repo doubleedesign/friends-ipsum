@@ -1,5 +1,6 @@
 export const quotes = [
 	"You don't have a TV? What's all your furniture pointed at?",
+	"I'm not great at the advice. Can I interest you in a sarcastic comment?",
 	"Welcome to the real world! It sucks. You're gonna love it!",
 	"Oh, I wish I could, but I don't want to.",
 	'Oh God. Can open. Worms everywhere!',
@@ -37,5 +38,19 @@ export const quotes = [
 	'I wanna quit the gym!',
 	'We said aloof, not a doof!',
 	'Be sleepy! And grumpy! Stop naming dwarves!',
-	'We ordered the Joey Special. Three pizzas?!'
+	'We ordered the Joey Special. Three pizzas?!',
+	"That's a lot of information to get in 30 seconds",
+	"We might still have some money if your father hadn't thought it was a good idea to sell ice over the internet",
+	"They're different from my other friends, they don't start sentences with \"you know who just died shoveling snow?\"",
+	"If it's not a right angle, it's a wrong angle.",
+	'So it seems like this internet thing is here to stay.',
+	"I needed a plan, a plan to get over my man. And what's the opposite of man? Jam.",
+	'Just to be clear, comedy with the plates will not be well-received.',
+	"They're as different as night and...later that night.",
+	'That’s a great story. Tell it while you’re getting me some iced tea.',
+	'Finally, I have someone I can pass on my wisdom to. Let me tell you about a couple of things I learned while working at the coffee house. First of all, the customer is always right. A smile goes a long way. And if anyone is ever rude to you: Sneeze Muffin.',
+	'What? Go back? To the land where time stands still?',
+	"What's the difference between beer and lager? I don't know. We could look it up. Things are about to get wild.",
+	"There's an old Russian expression...Roughly translated, it means: \"This thing that I'm looking at: Wow.",
+
 ];
