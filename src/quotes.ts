@@ -52,5 +52,21 @@ export const quotes = [
 	'What? Go back? To the land where time stands still?',
 	"What's the difference between beer and lager? I don't know. We could look it up. Things are about to get wild.",
 	"There's an old Russian expression...Roughly translated, it means: \"This thing that I'm looking at: Wow.\"",
-
+	"Okay, well, who identified this restaurant's tone as \"pretentious-comma-garlicky\"?",
+	'Wow. I haven\'t seen you this worked-up since you did that dog-food commercial and you thought you were gonna be with a real talking dog. Yeah, that was a disappointment',
+	"Over the line? You're so far past the line, that you can't even see the line! The line is a dot to you!",
+	'The cushions are the essence of the chair!',
+	'Fried chicken could be fricken.',
+	'Gum would be perfection',
+	'Paper! Snow! A ghost!',
+	'London, baby!',
+	"I'm sure you’re right, but why?",
+	'Smelly cat, smelly cat, what are they feeding you?',
+	"Smelly cat, smelly cat, it's not your fault",
+	'The messers become the messees.',
+	'Should I use my invisibility to fight crime or for evil?',
+	'Hey, that’s jo-incidence with a C!',
+	'If you want to receive emails about my upcoming shows, please give me money so I can buy a computer.',
+	"I'm gonna go get one of those job things.",
+	"Oh my God. I've become my father. I've been trying so hard not to become my mother, I didn't see this coming."
 ];
