@@ -40,7 +40,7 @@ export const quotes = [
 	'Be sleepy! And grumpy! Stop naming dwarves!',
 	'We ordered the Joey Special. Three pizzas?!',
 	"That's a lot of information to get in 30 seconds",
-	"We might still have some money if your father hadn't thought it was a good idea to sell ice over the internet",
+	"We might still have some money if your father hadn't thought it was a good idea to sell ice over the internet.",
 	"They're different from my other friends, they don't start sentences with \"you know who just died shoveling snow?\"",
 	"If it's not a right angle, it's a wrong angle.",
 	'So it seems like this internet thing is here to stay.',
@@ -51,6 +51,6 @@ export const quotes = [
 	'Finally, I have someone I can pass on my wisdom to. Let me tell you about a couple of things I learned while working at the coffee house. First of all, the customer is always right. A smile goes a long way. And if anyone is ever rude to you: Sneeze Muffin.',
 	'What? Go back? To the land where time stands still?',
 	"What's the difference between beer and lager? I don't know. We could look it up. Things are about to get wild.",
-	"There's an old Russian expression...Roughly translated, it means: \"This thing that I'm looking at: Wow.",
+	"There's an old Russian expression...Roughly translated, it means: \"This thing that I'm looking at: Wow.\"",
 
 ];
