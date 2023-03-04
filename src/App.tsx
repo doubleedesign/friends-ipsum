@@ -68,7 +68,7 @@ function App() {
 				<small>By Leesa Ward.
 					<a href="https://github.com/doubleedesign/friends-ipsum" target="_blank">View on GitHub</a>.
 					Inspired by <a href="http://fillerama.io/" target="_blank">Fillerama</a>.</small>
-				<small>Image: <a href="https://commons.wikimedia.org/wiki/File:Central_Perk_set.jpg">Gga2015</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons</small>.
+				<small>Image: <a href="https://commons.wikimedia.org/wiki/File:Central_Perk_set.jpg">Gga2015</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.</small>
 			</StyledFooter>
 		</StyledPageWrapper>
 	);
