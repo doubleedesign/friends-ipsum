@@ -1,7 +1,12 @@
 import styled from 'styled-components';
 
 export const StyledPageWrapper = styled.main`
-    background-image: url('../../public/Central_Perk_set.jpg');
+	background-image: ${() => {
+        if (process.env.NODE_ENV === 'LOCAL') {
+			return "url('../../public/Central_Perk_set.jpg');";
+        }
+        return "url('./Central_Perk_set.jpg');";
+    }};
     background-size: cover;
     background-position: center center;
 	min-height: 100vh;
